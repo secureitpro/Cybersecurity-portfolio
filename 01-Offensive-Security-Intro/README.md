@@ -43,4 +43,4 @@ Tasks: 4/4
 
 Points Earned: 32
 
-[View My TryHackMe Lab](https://tryhackme.com/room/offensivesecurityintro)
+https://tryhackme.com/room/offensivesecurityintrokKx12?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&share_date=2026-11-16&sharerId=6afbcc3c0ec338d5234150c7
