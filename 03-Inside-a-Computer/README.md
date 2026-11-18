@@ -34,4 +34,5 @@ This room helped me understand how computer hardware supports operating systems 
 Understanding these components is useful for my goal of becoming a SOC Analyst because security professionals need foundational knowledge of the systems they monitor and protect.
 
 TryHackMe Completion
+https://tryhackme.com/room/computertypes?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&share_date=2026-11-17&sharerId=6afbcc3c0ec338d5234150c7
 
