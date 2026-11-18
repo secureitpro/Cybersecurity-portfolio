@@ -4,6 +4,15 @@ My cybersecurity learning journey, TryHackMe labs, and hands-on security project
 
 ## My TryHackMe Projects
 
+- [Offensive Security Intro](01-Offensive-Security-Intro/README.md)
+- [Defensive Security Intro](02-Defensive-Security-Intro/README.md)
+- [Inside a Computer](03-Inside-a-Computer/README.md)
+- [Computer Types](04-Computer-Types/README.md)
+- [Client-Server Basics](05-Client-Server-Basics/README.md)
+- [Virtualisation Basics](06-Virtualisation-Basics/README.md)
+- [Cloud Computing Fundamentals](07-Cloud-Computing-Fundamentals/README.md)
+- [Operating Systems Introduction](08-Operating-Systems-Introduction/README.md)
+
 ### Offensive Security Intro
 
 Status: Completed
