@@ -41,3 +41,144 @@ This project is part of my hands-on cybersecurity learning journey as I develop 
 Completion Link:
 
 https://tryhackme.com/room/defensivesecurityintroexp?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&share_date=2026-11-17&sharerId=6afbcc3c0ec338d5234150c7
+
+TryHackMe: Computer Types
+
+Platform: TryHackMe
+
+Status: Completed 
+
+Topics Covered
+
+* Different types of computers
+* Laptops and smartphones
+* Servers
+* Internet of Things (IoT) devices
+* Embedded computer systems
+
+Project Summary
+
+I studied different types of computers and their purposes through TryHackMe’s Computer Types room. This helped me understand how computers are used in everyday devices and larger systems.
+
+TryHackMe Room
+
+https://tryhackme.com/room/computertypes?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&share_date=2026-11-17&sharerId=6afbcc3c0ec338d5234150c7
+
+TryHackMe: Client-Server Basics
+
+Platform: TryHackMe
+
+Status: Completed
+
+Topics Covered
+
+* Client-server communication
+* Domain Name System (DNS)
+* Network ports and protocols
+* How computers exchange information
+* Web communication fundamentals
+
+Project Summary
+
+I studied the client-server model through TryHackMe. I learned how clients request services from servers and how networks, ports, protocols, and DNS support communication between computer systems.
+
+This knowledge supports my goal of becoming a SOC Analyst by strengthening my understanding of network communication.
+
+TryHackMe Room
+
+https://tryhackme.com/room/clientserverbasics?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&share_date=2026-11-17&sharerId=6afbcc3c0ec338d5234150c7
+
+TryHackMe: Virtualisation Basics
+
+Platform: TryHackMe
+
+Status: Completed
+
+Topics Covered
+
+* Virtualization fundamentals
+* Virtual machines (VMs)
+* Virtualization components
+* Managing virtual machines
+* Hardware efficiency and scalability
+* Introduction to containers
+
+Project Summary
+
+I studied virtualization through TryHackMe’s Virtualisation Basics room. I learned how virtualization helps organizations run multiple virtual environments on physical hardware while improving efficiency and resource management.
+
+This knowledge supports my cybersecurity career goals by helping me understand the virtual environments used in IT infrastructure and security labs.
+
+TryHackMe Room
+
+https://tryhackme.com/room/virtualisationbasics?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&share_date=2026-11-17&sharerId=6afbcc3c0ec338d5234150c7
+
+TryHackMe: Cloud Computing Fundamentals
+
+Platform: TryHackMe
+
+Status: Completed
+
+Topics Covered
+
+* Cloud computing fundamentals
+* Cloud service models: IaaS, PaaS, and SaaS
+* Public, private, and hybrid clouds
+* Benefits of cloud computing
+* Deploying a cloud instance
+* How organizations use cloud infrastructure
+
+Project Summary
+
+I studied cloud computing through TryHackMe’s Cloud Computing Fundamentals room. I learned about different cloud service models, cloud deployment types, and how organizations use cloud infrastructure to host applications and services.
+
+This knowledge supports my goal of becoming a SOC Analyst by strengthening my understanding of modern IT infrastructure.
+
+TryHackMe Room
+
+https://tryhackme.com/room/cloudcomputingfundamentals?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&share_date=2026-11-17&sharerId=6afbcc3c0ec338d5234150c7
+
+TryHackMe: Operating Systems Introduction
+
+Platform: TryHackMe
+
+Status: Completed
+
+Career Focus: SOC Analyst
+
+Skills Learned
+
+* Linux operating system fundamentals
+* File system identification
+* Linux directory navigation
+* System information analysis
+* User directory exploration
+* Operating system security concepts
+
+Hands-On Lab Experience
+
+I completed a practical Linux investigation using a virtual Ubuntu environment on TryHackMe.
+
+During this lab, I:
+
+1. Explored the Linux operating system using its graphical interface.
+2. Used System Monitor to examine system information.
+3. Identified the ext4 file system.
+4. Explored the Home directory and identified three user directories.
+5. Navigated to a user’s Documents folder.
+6. Opened and examined a text file to locate information.
+
+What I Learned
+
+This exercise strengthened my understanding of Linux operating systems, file structures, and system investigation.
+
+These foundational skills support SOC Analyst responsibilities, including examining system activity, investigating files, and understanding endpoint environments.
+
+TryHackMe Completion Link
+
+https://tryhackme.com/room/operatingsystemsintroduction?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&share_date=2026-11-18&sharerId=6afbcc3c0ec338d5234150c7
+
+
+
+
+
