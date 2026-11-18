@@ -38,3 +38,4 @@ TryHackMe Completion
 Room: Virtualisation Basics
 
 Status: Completed
+https://tryhackme.com/room/cloudcomputingfundamentals?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&share_date=2026-11-17&sharerId=6afbcc3c0ec338d5234150c7
