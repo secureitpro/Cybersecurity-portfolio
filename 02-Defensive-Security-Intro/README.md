@@ -32,4 +32,4 @@ This project strengthened my understanding of defensive cybersecurity and introd
 
 TryHackMe Completion Link
 
-[Defensive Security Intro](02-Defensive-Security-Intro/README.md)
+https://tryhackme.com/room/defensivesecurityintroexp?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&share_date=2026-11-17&sharerId=6afbcc3c0ec338d5234150c7
