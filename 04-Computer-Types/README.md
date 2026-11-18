@@ -35,5 +35,4 @@ As an aspiring SOC Analyst, understanding different computer systems helps me bu
 
 TryHackMe Completion
 
-Completed the Computer Types room on TryHackMe.
-
+https://tryhackme.com/room/clientserverbasics?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&share_date=2026-11-17&sharerId=6afbcc3c0ec338d5234150c7
