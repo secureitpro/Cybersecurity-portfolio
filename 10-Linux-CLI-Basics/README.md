@@ -1,6 +1,7 @@
 # Linux CLI Basics
 
-Platform: TryHackMe
+Platform: TryHackMe  
+Status: Completed
 
 ## Room overview
 
