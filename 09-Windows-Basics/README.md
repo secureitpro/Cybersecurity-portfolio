@@ -1,3 +1,7 @@
+# Windows Basics
+
+Completed TryHackMe lab. I ran a custom antivirus scan in Windows Security, investigated the EICAR test-file alert, and confirmed quarantine.
+
 Windows Basics | TryHackMe
 Project Overview
 This project documents my hands-on experience with Windows Server 2019 through the TryHackMe Windows Basics room.
