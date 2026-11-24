@@ -1,6 +1,12 @@
 # Cybersecurity-portfolio
 My cybersecurity learning journey, TryHackMe labs, and hands-on security projects.
 
+## Featured labs for SOC analyst roles
+
+- [Windows Basics](09-Windows-Basics/README.md) — Ran a custom antivirus scan, investigated an EICAR test-file alert, and confirmed quarantine.
+- [Defensive Security Intro](02-Defensive-Security-Intro/README.md) — Covered security monitoring and incident response.
+- [Linux CLI Basics](10-Linux-CLI-Basics/README.md) — Practiced finding files and checking system information in the Linux terminal.
+
 
 ## My TryHackMe Projects
 
@@ -12,6 +18,8 @@ My cybersecurity learning journey, TryHackMe labs, and hands-on security project
 - [Virtualisation Basics](06-Virtualisation-Basics/README.md)
 - [Cloud Computing Fundamentals](07-Cloud-Computing-Fundamentals/README.md)
 - [Operating Systems Introduction](08-Operating-Systems-Introduction/README.md)
+- [Windows Basics](09-Windows-Basics/README.md)
+- [Linux CLI Basics](10-Linux-CLI-Basics/README.md)
 
 ### Offensive Security Intro
 
