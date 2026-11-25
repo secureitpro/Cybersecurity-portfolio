@@ -20,6 +20,7 @@ My cybersecurity learning journey, TryHackMe labs, and hands-on security project
 - [Operating Systems Introduction](08-Operating-Systems-Introduction/README.md)
 - [Windows Basics](09-Windows-Basics/README.md)
 - [Linux CLI Basics](10-Linux-CLI-Basics/README.md)
+- [Windows CLI Basics](11-Windows-CLI-Basics/README.md)
 
 ### Offensive Security Intro
 
