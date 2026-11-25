@@ -24,6 +24,7 @@ My cybersecurity learning journey, TryHackMe labs, and hands-on security project
 - [Operating System Security](12-Operating-System-Security/README.md)
 - [Data Representation](13-Data-Representation/README.md)
 - [Data Encoding](14-Data-Encoding/README.md)
+- [Python: Simple Demo](15-Python-Simple-Demo/README.md)
 
 ### Offensive Security Intro
 
