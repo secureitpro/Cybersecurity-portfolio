@@ -25,6 +25,7 @@ My cybersecurity learning journey, TryHackMe labs, and hands-on security project
 - [Data Representation](13-Data-Representation/README.md)
 - [Data Encoding](14-Data-Encoding/README.md)
 - [Python: Simple Demo](15-Python-Simple-Demo/README.md)
+- [JavaScript: Simple Demo](16-JavaScript-Simple-Demo/README.md)
 
 ### Offensive Security Intro
 
